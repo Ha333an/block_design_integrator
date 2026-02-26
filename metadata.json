@@ -1,0 +1,5 @@
+{
+  "name": "BSF Visualizer",
+  "description": "A tool to visualize Quartus Block Symbol Files (BSF) as interactive SVG schematics.",
+  "requestFramePermissions": []
+}
